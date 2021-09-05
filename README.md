@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, World! 👋
+
+My name is Reeta and I'm a software developer. 
+You can find me on LinkedIn: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/reeta-aitto-oja/)
+&nbsp;
+
+## My GitHub Statistics
+
+<a href="https://github.com/aitto-oja/aitto-oja">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aitto-oja&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 <!--
 **aitto-oja/aitto-oja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
